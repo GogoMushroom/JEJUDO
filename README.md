@@ -4,7 +4,7 @@
 
 ## ⏰개발 기간
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/038cccd5-f263-4115-94b8-15cfec388836/Untitled.png)
+![개발일정](https://user-images.githubusercontent.com/87971936/147195130-394f90e8-3f2a-4ef2-83c9-3b8ba411fb7d.png)
 
 ---
 
@@ -37,13 +37,14 @@
 
 ## 👩‍🏫**ER Diagram**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/290fb8cb-5612-4584-b6c6-f26fda643679/Untitled.png)
+
+![ERDIAGRAM](https://user-images.githubusercontent.com/87971936/147195201-56a548c5-b2fb-4c33-b23d-07d429e93093.png)
 
 ---
 
 ## 📘사용 기술
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/78464c06-93af-4e4a-825f-b2e23ed7e555/Untitled.png)
+![사용기술](https://user-images.githubusercontent.com/87971936/147195205-b18569a0-b50b-42b1-96bb-a353bb435085.png)
 
 ---
 
